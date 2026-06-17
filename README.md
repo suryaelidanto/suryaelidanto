@@ -1,23 +1,15 @@
 # Cintara Surya Elidanto
 
-**AI Software Engineer | Backend Specialist | SaaS Founder**
+Indie maker. Mostly building small web apps, backend stuff, and AI-powered tools.
 
-Building production-grade AI agents and scalable backend systems. Specialized in RAG architectures, structured data extraction, and defensive AI engineering for enterprise compliance.
+Working on **[YouClip](https://youclip.id)** and **[umkmcepat](https://github.com/suryaelidanto/umkmcepat)**.
 
-Founder: **[YouClip](https://youclip.id)** - AI-powered YouTube video repurposing platform
+## Stack
 
----
-
-## Tech Stack
-
-**Backend:** Python (FastAPI), RESTful APIs, Microservices  
-**AI/LLM:** OpenAI API, RAG, Prompt Engineering, Pydantic/Instructor  
-**Infrastructure:** Docker, PostgreSQL, Git
-
----
+Python, FastAPI, PostgreSQL, Docker, Git, OpenAI API.
 
 ## Contact
 
-**Email:** suryaelidanto@gmail.com  
-**LinkedIn:** [linkedin.com/in/cintarasuryaelidanto](https://www.linkedin.com/in/cintarasuryaelidanto/)  
-**Product:** [youclip.id](https://youclip.id)
+Email: suryaelidanto@gmail.com  
+LinkedIn: [linkedin.com/in/cintarasuryaelidanto](https://www.linkedin.com/in/cintarasuryaelidanto/)  
+Product: [youclip.id](https://youclip.id)
